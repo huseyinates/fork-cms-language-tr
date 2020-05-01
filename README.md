@@ -1,7 +1,7 @@
 # Turkish Language for Fork CMS
 > The addresses module lets you add multiple addresses to your website, and show them on a page or widget.
 ## Download:
-- [Download Fork LANG TR.*](https://github.com/huseyinates/fork-cms-language-tr.git)
+- [Download Fork LANG TR.*](https://github.com/huseyinates/fork-cms-language-tr/archive/master.zip)
 
 ## Installation:
 - Download the module
