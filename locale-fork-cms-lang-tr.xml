@@ -1,0 +1,1011 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+  <Backend>
+    <Core>
+      <item type="label" name="AccountManagement">
+        <translation language="tr"><![CDATA[Hesap yönetimi]]></translation>
+      </item>
+      <item type="label" name="AccountSettings">
+        <translation language="tr"><![CDATA[Hesap ayarları]]></translation>
+      </item>
+      <item type="label" name="Activate">
+        <translation language="tr"><![CDATA[etkinleştir]]></translation>
+      </item>
+      <item type="label" name="Active">
+        <translation language="tr"><![CDATA[etkin]]></translation>
+      </item>
+      <item type="label" name="Add">
+        <translation language="tr"><![CDATA[Ekle]]></translation>
+      </item>
+      <item type="label" name="AddBlock">
+        <translation language="tr"><![CDATA[Blok ekle]]></translation>
+      </item>
+      <item type="label" name="AddCategory">
+        <translation language="tr"><![CDATA[kategori ekle]]></translation>
+      </item>
+      <item type="label" name="AddMediaFolder">
+        <translation language="tr"><![CDATA[Klasör Ekle]]></translation>
+      </item>
+      <item type="label" name="Address">
+        <translation language="tr"><![CDATA[Adres]]></translation>
+      </item>
+      <item type="label" name="AddTemplate">
+        <translation language="tr"><![CDATA[Şablon ekle]]></translation>
+      </item>
+      <item type="label" name="Advanced">
+        <translation language="tr"><![CDATA[gelişmiş]]></translation>
+      </item>
+      <item type="label" name="AllComments">
+        <translation language="tr"><![CDATA[tüm yorumlar]]></translation>
+      </item>
+      <item type="label" name="AllEmailAddresses">
+        <translation language="tr"><![CDATA[tüm e-posta adresleri]]></translation>
+      </item>
+      <item type="label" name="AllowComments">
+        <translation language="tr"><![CDATA[yorumlara izin ver]]></translation>
+      </item>
+      <item type="label" name="AllPages">
+        <translation language="tr"><![CDATA[tüm sayfalar]]></translation>
+      </item>
+      <item type="label" name="AllQuestions">
+        <translation language="tr"><![CDATA[Tüm sorular]]></translation>
+      </item>
+      <item type="label" name="Amount">
+        <translation language="tr"><![CDATA[miktar]]></translation>
+      </item>
+      <item type="label" name="Analyse">
+        <translation language="tr"><![CDATA[analiz]]></translation>
+      </item>
+      <item type="label" name="Analysis">
+        <translation language="tr"><![CDATA[analiz]]></translation>
+      </item>
+      <item type="label" name="Analytics">
+        <translation language="tr"><![CDATA[Analytics]]></translation>
+      </item>
+      <item type="label" name="APIKey">
+        <translation language="tr"><![CDATA[API key]]></translation>
+      </item>
+      <item type="label" name="APIKeys">
+        <translation language="tr"><![CDATA[API keys]]></translation>
+      </item>
+      <item type="label" name="APIURL">
+        <translation language="tr"><![CDATA[API URL]]></translation>
+      </item>
+      <item type="label" name="Application">
+        <translation language="tr"><![CDATA[uygulama]]></translation>
+      </item>
+      <item type="label" name="Approve">
+        <translation language="tr"><![CDATA[onayla]]></translation>
+      </item>
+      <item type="label" name="Archive">
+        <translation language="tr"><![CDATA[arşiv]]></translation>
+      </item>
+      <item type="label" name="Archived">
+        <translation language="tr"><![CDATA[arşivlendi]]></translation>
+      </item>
+      <item type="label" name="Article">
+        <translation language="tr"><![CDATA[Yazı]]></translation>
+      </item>
+      <item type="label" name="Articles">
+        <translation language="tr"><![CDATA[Yazılar]]></translation>
+      </item>
+      <item type="label" name="Authentication">
+        <translation language="tr"><![CDATA[Kimlik Doğrulama]]></translation>
+      </item>
+      <item type="label" name="Author">
+        <translation language="tr"><![CDATA[yazar]]></translation>
+      </item>
+      <item type="label" name="Avatar">
+        <translation language="tr"><![CDATA[Avatar]]></translation>
+      </item>
+      <item type="label" name="Back">
+        <translation language="tr"><![CDATA[geri]]></translation>
+      </item>
+      <item type="label" name="Backend">
+        <translation language="tr"><![CDATA[Yönetim paneli]]></translation>
+      </item>
+      <item type="label" name="BG">
+        <translation language="tr"><![CDATA[Bulgar]]></translation>
+      </item>
+      <item type="label" name="Block">
+        <translation language="tr"><![CDATA[blok]]></translation>
+      </item>
+      <item type="label" name="Blog">
+        <translation language="tr"><![CDATA[blog]]></translation>
+      </item>
+      <item type="label" name="BrowserNotSupported">
+        <translation language="tr"><![CDATA[Tarayıcınız desteklenmiyor.]]></translation>
+      </item>
+      <item type="label" name="By">
+        <translation language="tr"><![CDATA[tarafından]]></translation>
+      </item>
+      <item type="label" name="Campaigns">
+        <translation language="tr"><![CDATA[kampanyalar]]></translation>
+      </item>
+      <item type="label" name="Cancel">
+        <translation language="tr"><![CDATA[İptal et]]></translation>
+      </item>
+      <item type="label" name="Categories">
+        <translation language="tr"><![CDATA[kategoriler]]></translation>
+      </item>
+      <item type="label" name="Category">
+        <translation language="tr"><![CDATA[kategori]]></translation>
+      </item>
+      <item type="label" name="ChangePassword">
+        <translation language="tr"><![CDATA[şifreyi güncelleyiniz]]></translation>
+      </item>
+      <item type="label" name="ChooseALanguage">
+        <translation language="tr"><![CDATA[bir dil seç]]></translation>
+      </item>
+      <item type="label" name="ChooseAModule">
+        <translation language="tr"><![CDATA[Modül seç]]></translation>
+      </item>
+      <item type="label" name="ChooseAnApplication">
+        <translation language="tr"><![CDATA[uygulama seç]]></translation>
+      </item>
+      <item type="label" name="ChooseATemplate">
+        <translation language="tr"><![CDATA[Şablon seç]]></translation>
+      </item>
+      <item type="label" name="ChooseContent">
+        <translation language="tr"><![CDATA[içerik seç]]></translation>
+      </item>
+      <item type="label" name="City">
+        <translation language="tr"><![CDATA[şehir]]></translation>
+      </item>
+      <item type="label" name="Close">
+        <translation language="tr"><![CDATA[kapat]]></translation>
+      </item>
+      <item type="label" name="CN">
+        <translation language="tr"><![CDATA[Çince]]></translation>
+      </item>
+      <item type="label" name="Comment">
+        <translation language="tr"><![CDATA[yorum]]></translation>
+      </item>
+      <item type="label" name="Comments">
+        <translation language="tr"><![CDATA[yorumlar]]></translation>
+      </item>
+      <item type="label" name="ConfirmPassword">
+        <translation language="tr"><![CDATA[şifreyi onayla]]></translation>
+      </item>
+      <item type="label" name="Contact">
+        <translation language="tr"><![CDATA[iletişim]]></translation>
+      </item>
+      <item type="label" name="ContactForm">
+        <translation language="tr"><![CDATA[iletişim formu]]></translation>
+      </item>
+      <item type="label" name="Content">
+        <translation language="tr"><![CDATA[içerik]]></translation>
+      </item>
+      <item type="label" name="Copy">
+        <translation language="tr"><![CDATA[Kopyala]]></translation>
+      </item>
+      <item type="label" name="Core">
+        <translation language="tr"><![CDATA[core]]></translation>
+      </item>
+      <item type="label" name="Country">
+        <translation language="tr"><![CDATA[ülke]]></translation>
+      </item>
+      <item type="label" name="CSV">
+        <translation language="tr"><![CDATA[CSV]]></translation>
+      </item>
+      <item type="label" name="Dashboard">
+        <translation language="tr"><![CDATA[Panel]]></translation>
+      </item>
+      <item type="label" name="Date">
+        <translation language="tr"><![CDATA[tarih]]></translation>
+      </item>
+      <item type="label" name="DateAndTime">
+        <translation language="tr"><![CDATA[Tarih ve saat]]></translation>
+      </item>
+      <item type="label" name="DateFormat">
+        <translation language="tr"><![CDATA[tarih formatı]]></translation>
+      </item>
+      <item type="label" name="DE">
+        <translation language="tr"><![CDATA[Almanca]]></translation>
+      </item>
+      <item type="label" name="Dear">
+        <translation language="tr"><![CDATA[Sevgili]]></translation>
+      </item>
+      <item type="label" name="DebugMode">
+        <translation language="tr"><![CDATA[ayıklama modu]]></translation>
+      </item>
+      <item type="label" name="Delete">
+        <translation language="tr"><![CDATA[Sil]]></translation>
+      </item>
+      <item type="label" name="Description">
+        <translation language="tr"><![CDATA[Açıklama]]></translation>
+      </item>
+      <item type="label" name="Developer">
+        <translation language="tr"><![CDATA[geliştirici]]></translation>
+      </item>
+      <item type="label" name="Draft">
+        <translation language="tr"><![CDATA[taslak]]></translation>
+      </item>
+      <item type="label" name="Drafts">
+        <translation language="tr"><![CDATA[taslaklar]]></translation>
+      </item>
+      <item type="label" name="Edit">
+        <translation language="tr"><![CDATA[Düzenle]]></translation>
+      </item>
+      <item type="label" name="EditBlock">
+        <translation language="tr"><![CDATA[bloğu düzenle]]></translation>
+      </item>
+      <item type="label" name="Editor">
+        <translation language="tr"><![CDATA[İçerik editörü]]></translation>
+      </item>
+      <item type="label" name="EditProfile">
+        <translation language="tr"><![CDATA[Profili düzenle]]></translation>
+      </item>
+      <item type="label" name="EmailAddresses">
+        <translation language="tr"><![CDATA[e-posta adresleri]]></translation>
+      </item>
+      <item type="label" name="ES">
+        <translation language="tr"><![CDATA[İspanyolca]]></translation>
+      </item>
+      <item type="label" name="ExtraMetaTags">
+        <translation language="tr"><![CDATA[ekstra metataglar]]></translation>
+      </item>
+      <item type="label" name="Faq">
+        <translation language="tr"><![CDATA[SSS]]></translation>
+      </item>
+      <item type="label" name="Feedback">
+        <translation language="tr"><![CDATA[Geri Bildirim]]></translation>
+      </item>
+      <item type="label" name="Follow">
+        <translation language="tr"><![CDATA[Takip Et]]></translation>
+      </item>
+      <item type="label" name="FooterNavigation">
+        <translation language="tr"><![CDATA[Footer Menü]]></translation>
+      </item>
+      <item type="label" name="FR">
+        <translation language="tr"><![CDATA[Fransızca]]></translation>
+      </item>
+      <item type="label" name="Hidden">
+        <translation language="tr"><![CDATA[Gizli]]></translation>
+      </item>
+      <item type="label" name="HU">
+        <translation language="tr"><![CDATA[Macar]]></translation>
+      </item>
+      <item type="label" name="Image">
+        <translation language="tr"><![CDATA[Resim]]></translation>
+      </item>
+      <item type="label" name="IT">
+        <translation language="tr"><![CDATA[İtalyanca]]></translation>
+      </item>
+      <item type="label" name="Keywords">
+        <translation language="tr"><![CDATA[Anahtar Kelimeler]]></translation>
+      </item>
+      <item type="label" name="LastEdited">
+        <translation language="tr"><![CDATA[Son Güncelleme]]></translation>
+      </item>
+      <item type="label" name="LastLogin">
+        <translation language="tr"><![CDATA[Son giriş]]></translation>
+      </item>
+      <item type="label" name="LastPasswordChange">
+        <translation language="tr"><![CDATA[Son şifre değişikliği]]></translation>
+      </item>
+      <item type="label" name="LatestComments">
+        <translation language="tr"><![CDATA[Son Yorumlar]]></translation>
+      </item>
+      <item type="label" name="MediaItemIndex">
+        <translation language="tr"><![CDATA[Genel]]></translation>
+      </item>
+      <item type="label" name="MetaInformation">
+        <translation language="tr"><![CDATA[META Bilgileri]]></translation>
+      </item>
+      <item type="label" name="Module">
+        <translation language="tr"><![CDATA[Modül]]></translation>
+      </item>
+      <item type="label" name="Modules">
+        <translation language="tr"><![CDATA[Modüller]]></translation>
+      </item>
+      <item type="label" name="More">
+        <translation language="tr"><![CDATA[daha fazla]]></translation>
+      </item>
+      <item type="label" name="NavigationTitle">
+        <translation language="tr"><![CDATA[Menü Başlığı]]></translation>
+      </item>
+      <item type="label" name="Never">
+        <translation language="tr"><![CDATA[Asla]]></translation>
+      </item>
+      <item type="label" name="NL">
+        <translation language="tr"><![CDATA[Flemenkçe]]></translation>
+      </item>
+      <item type="label" name="None">
+        <translation language="tr"><![CDATA[Seçilmedi]]></translation>
+      </item>
+      <item type="label" name="OpenTreeNavigation">
+        <translation language="tr"><![CDATA[Menüleri aç]]></translation>
+      </item>
+      <item type="label" name="Overview">
+        <translation language="tr"><![CDATA[Genel]]></translation>
+      </item>
+      <item type="label" name="Page">
+        <translation language="tr"><![CDATA[Sayfa]]></translation>
+      </item>
+      <item type="label" name="Pages">
+        <translation language="tr"><![CDATA[Sayfalar]]></translation>
+      </item>
+      <item type="label" name="PageTitle">
+        <translation language="tr"><![CDATA[Sayfa başlığı]]></translation>
+      </item>
+      <item type="label" name="Pageviews">
+        <translation language="tr"><![CDATA[Sayfa gösterimi]]></translation>
+      </item>
+      <item type="label" name="Pagination">
+        <translation language="tr"><![CDATA[Sayfalama]]></translation>
+      </item>
+      <item type="label" name="Password">
+        <translation language="tr"><![CDATA[şifre]]></translation>
+      </item>
+      <item type="label" name="PasswordStrength">
+        <translation language="tr"><![CDATA[Şifrenin Gizlilik Gücü]]></translation>
+      </item>
+      <item type="label" name="PerDay">
+        <translation language="tr"><![CDATA[Günlük]]></translation>
+      </item>
+      <item type="label" name="Permissions">
+        <translation language="tr"><![CDATA[İzinler]]></translation>
+      </item>
+      <item type="label" name="Person">
+        <translation language="tr"><![CDATA[Kişi]]></translation>
+      </item>
+      <item type="label" name="PersonalInformation">
+        <translation language="tr"><![CDATA[Kişisel bilgiler]]></translation>
+      </item>
+      <item type="label" name="Persons">
+        <translation language="tr"><![CDATA[Kişiler]]></translation>
+      </item>
+      <item type="label" name="PerVisit">
+        <translation language="tr"><![CDATA[Ziyaret başına]]></translation>
+      </item>
+      <item type="label" name="PingBlogServices">
+        <translation language="tr"><![CDATA[Ping blog servisi]]></translation>
+      </item>
+      <item type="label" name="PL">
+        <translation language="tr"><![CDATA[Lehçe]]></translation>
+      </item>
+      <item type="label" name="Port">
+        <translation language="tr"><![CDATA[Port]]></translation>
+      </item>
+      <item type="label" name="Preview">
+        <translation language="tr"><![CDATA[önizleme]]></translation>
+      </item>
+      <item type="label" name="Previous">
+        <translation language="tr"><![CDATA[önceki]]></translation>
+      </item>
+      <item type="label" name="PreviousPage">
+        <translation language="tr"><![CDATA[önceki sayfa]]></translation>
+      </item>
+      <item type="label" name="PreviousVersions">
+        <translation language="tr"><![CDATA[Önceki versiyonlar]]></translation>
+      </item>
+      <item type="label" name="Price">
+        <translation language="tr"><![CDATA[Fiyat]]></translation>
+      </item>
+      <item type="label" name="Profile">
+        <translation language="tr"><![CDATA[Profil]]></translation>
+      </item>
+      <item type="label" name="Profiles">
+        <translation language="tr"><![CDATA[Profiller]]></translation>
+      </item>
+      <item type="label" name="ProfileSettings">
+        <translation language="tr"><![CDATA[Profil ayarları]]></translation>
+      </item>
+      <item type="label" name="Publish">
+        <translation language="tr"><![CDATA[Yayınla]]></translation>
+      </item>
+      <item type="label" name="Published">
+        <translation language="tr"><![CDATA[Yayınla]]></translation>
+      </item>
+      <item type="label" name="Questions">
+        <translation language="tr"><![CDATA[sorular]]></translation>
+      </item>
+      <item type="label" name="RecentlyEdited">
+        <translation language="tr"><![CDATA[Son eklenenler]]></translation>
+      </item>
+      <item type="label" name="Register">
+        <translation language="tr"><![CDATA[kaydol]]></translation>
+      </item>
+      <item type="label" name="RU">
+        <translation language="tr"><![CDATA[Rusca]]></translation>
+      </item>
+      <item type="label" name="Save">
+        <translation language="tr"><![CDATA[kaydet]]></translation>
+      </item>
+      <item type="label" name="SaveDraft">
+        <translation language="tr"><![CDATA[taslak kaydet]]></translation>
+      </item>
+      <item type="label" name="Scripts">
+        <translation language="tr"><![CDATA[scriptler]]></translation>
+      </item>
+      <item type="label" name="Search">
+        <translation language="tr"><![CDATA[ara]]></translation>
+      </item>
+      <item type="label" name="SearchAgain">
+        <translation language="tr"><![CDATA[yeniden ara]]></translation>
+      </item>
+      <item type="label" name="SearchForm">
+        <translation language="tr"><![CDATA[arama formu]]></translation>
+      </item>
+      <item type="label" name="Send">
+        <translation language="tr"><![CDATA[gönder]]></translation>
+      </item>
+      <item type="label" name="SEO">
+        <translation language="tr"><![CDATA[SEO]]></translation>
+      </item>
+      <item type="label" name="Server">
+        <translation language="tr"><![CDATA[sunucu]]></translation>
+      </item>
+      <item type="label" name="Settings">
+        <translation language="tr"><![CDATA[ayarlar]]></translation>
+      </item>
+      <item type="label" name="SignIn">
+        <translation language="tr"><![CDATA[Giriş]]></translation>
+      </item>
+      <item type="label" name="SMTP">
+        <translation language="tr"><![CDATA[SMTP]]></translation>
+      </item>
+      <item type="label" name="Source">
+        <translation language="tr"><![CDATA[kaynak]]></translation>
+      </item>
+      <item type="label" name="Spam">
+        <translation language="tr"><![CDATA[spam]]></translation>
+      </item>
+      <item type="label" name="SpamFilter">
+        <translation language="tr"><![CDATA[spamfiltresi]]></translation>
+      </item>
+      <item type="label" name="StartDate">
+        <translation language="tr"><![CDATA[başlangıç ​​tarihi]]></translation>
+      </item>
+      <item type="label" name="Statistics">
+        <translation language="tr"><![CDATA[istatistikler]]></translation>
+      </item>
+      <item type="label" name="Status">
+        <translation language="tr"><![CDATA[durum]]></translation>
+      </item>
+      <item type="label" name="TagCloud">
+        <translation language="tr"><![CDATA[etiket bulutu]]></translation>
+      </item>
+      <item type="label" name="Tags">
+        <translation language="tr"><![CDATA[etiketler]]></translation>
+      </item>
+      <item type="label" name="Template">
+        <translation language="tr"><![CDATA[Şablon ]]></translation>
+      </item>
+      <item type="label" name="Templates">
+        <translation language="tr"><![CDATA[Şablonlar]]></translation>
+      </item>
+      <item type="label" name="Term">
+        <translation language="tr"><![CDATA[Terim]]></translation>
+      </item>
+      <item type="label" name="Text">
+        <translation language="tr"><![CDATA[Metin]]></translation>
+      </item>
+      <item type="label" name="Themes">
+        <translation language="tr"><![CDATA[temalar]]></translation>
+      </item>
+      <item type="label" name="ThemesSelection">
+        <translation language="tr"><![CDATA[tema şeçimi]]></translation>
+      </item>
+      <item type="label" name="Till">
+        <translation language="tr"><![CDATA[dek]]></translation>
+      </item>
+      <item type="label" name="TimeFormat">
+        <translation language="tr"><![CDATA[saat biçimi]]></translation>
+      </item>
+      <item type="label" name="Timezone">
+        <translation language="tr"><![CDATA[zaman dilimi]]></translation>
+      </item>
+      <item type="label" name="Title">
+        <translation language="tr"><![CDATA[başlık]]></translation>
+      </item>
+      <item type="label" name="Titles">
+        <translation language="tr"><![CDATA[başlıklar]]></translation>
+      </item>
+      <item type="label" name="Today">
+        <translation language="tr"><![CDATA[bugün]]></translation>
+      </item>
+      <item type="label" name="TR">
+        <translation language="tr"><![CDATA[Türkçe]]></translation>
+      </item>
+      <item type="label" name="Translation">
+        <translation language="tr"><![CDATA[çeviri]]></translation>
+      </item>
+      <item type="label" name="Translations">
+        <translation language="tr"><![CDATA[Çeviriler]]></translation>
+      </item>
+      <item type="label" name="Type">
+        <translation language="tr"><![CDATA[Tipi]]></translation>
+      </item>
+      <item type="label" name="URL">
+        <translation language="tr"><![CDATA[URL]]></translation>
+      </item>
+      <item type="label" name="Username">
+        <translation language="tr"><![CDATA[Kullanıcı adı]]></translation>
+      </item>
+      <item type="label" name="Users">
+        <translation language="tr"><![CDATA[Üyeler]]></translation>
+      </item>
+      <item type="label" name="UseThisDraft">
+        <translation language="tr"><![CDATA[bu taslağı kullan]]></translation>
+      </item>
+      <item type="label" name="UseThisVersion">
+        <translation language="tr"><![CDATA[Bu versiyonu kullan]]></translation>
+      </item>
+      <item type="label" name="Value">
+        <translation language="tr"><![CDATA[Değer]]></translation>
+      </item>
+      <item type="label" name="Versions">
+        <translation language="tr"><![CDATA[Sayfa Geçmişi]]></translation>
+      </item>
+      <item type="label" name="View">
+        <translation language="tr"><![CDATA[görüntüle]]></translation>
+      </item>
+      <item type="label" name="ViewReport">
+        <translation language="tr"><![CDATA[Raporu görüntüle]]></translation>
+      </item>
+      <item type="label" name="Visitors">
+        <translation language="tr"><![CDATA[Ziyaretçiler]]></translation>
+      </item>
+      <item type="label" name="VisitWebsite">
+        <translation language="tr"><![CDATA[Siteyi göster]]></translation>
+      </item>
+      <item type="label" name="WaitingForModeration">
+        <translation language="tr"><![CDATA[onay için bekliyor]]></translation>
+      </item>
+      <item type="label" name="Weak">
+        <translation language="tr"><![CDATA[Zayıf]]></translation>
+      </item>
+      <item type="label" name="WebmasterEmail">
+        <translation language="tr"><![CDATA[Webmaster e-mail]]></translation>
+      </item>
+      <item type="label" name="Website">
+        <translation language="tr"><![CDATA[website]]></translation>
+      </item>
+      <item type="label" name="WebsiteTitle">
+        <translation language="tr"><![CDATA[Website başlığı]]></translation>
+      </item>
+      <item type="label" name="Weight">
+        <translation language="tr"><![CDATA[ağırlık]]></translation>
+      </item>
+      <item type="label" name="WhichModule">
+        <translation language="tr"><![CDATA[hangi modül]]></translation>
+      </item>
+      <item type="label" name="WhichWidget">
+        <translation language="tr"><![CDATA[Hangi eklenti]]></translation>
+      </item>
+      <item type="label" name="Widget">
+        <translation language="tr"><![CDATA[Eklenti]]></translation>
+      </item>
+      <item type="label" name="Widgets">
+        <translation language="tr"><![CDATA[Eklentiler]]></translation>
+      </item>
+      <item type="label" name="Width">
+        <translation language="tr"><![CDATA[genişlik]]></translation>
+      </item>
+      <item type="label" name="WithSelected">
+        <translation language="tr"><![CDATA[seçili olan]]></translation>
+      </item>
+      <item type="label" name="ZH">
+        <translation language="tr"><![CDATA[Çince]]></translation>
+      </item>
+      <item type="label" name="Zip">
+        <translation language="tr"><![CDATA[Posta kodu]]></translation>
+      </item>
+    </Core>
+    <Dashboard>
+      <item type="label" name="TopKeywords">
+        <translation language="tr"><![CDATA[En iyi anahtar kelimeler]]></translation>
+      </item>
+    </Dashboard>
+    <Extensions>
+      <item type="label" name="FindModules">
+        <translation language="tr"><![CDATA[Modülleri bul]]></translation>
+      </item>
+      <item type="label" name="InstallableModules">
+        <translation language="tr"><![CDATA[kurulu olmayan modüller]]></translation>
+      </item>
+      <item type="label" name="Overwrite">
+        <translation language="tr"><![CDATA[Üzerine yaz]]></translation>
+      </item>
+    </Extensions>
+    <Faq>
+      <item type="label" name="Feedback">
+        <translation language="tr"><![CDATA[Geri Bildirim]]></translation>
+      </item>
+    </Faq>
+    <Locale>
+      <item type="label" name="DE">
+        <translation language="tr"><![CDATA[Almanca]]></translation>
+      </item>
+      <item type="label" name="ES">
+        <translation language="tr"><![CDATA[İspanyolca]]></translation>
+      </item>
+      <item type="label" name="HU">
+        <translation language="tr"><![CDATA[Macar]]></translation>
+      </item>
+      <item type="label" name="IT">
+        <translation language="tr"><![CDATA[İtalyanca]]></translation>
+      </item>
+      <item type="label" name="NL">
+        <translation language="tr"><![CDATA[Flemenkçe]]></translation>
+      </item>
+      <item type="label" name="RU">
+        <translation language="tr"><![CDATA[Rusca]]></translation>
+      </item>
+      <item type="label" name="ZH">
+        <translation language="tr"><![CDATA[Çince]]></translation>
+      </item>
+    </Locale>
+    <Mailmotor>
+      <item type="label" name="None">
+        <translation language="tr"><![CDATA[Yok]]></translation>
+      </item>
+    </Mailmotor>
+    <MediaGalleries>
+      <item type="label" name="Delete">
+        <translation language="tr"><![CDATA[Sil]]></translation>
+      </item>
+      <item type="label" name="Image">
+        <translation language="tr"><![CDATA[Resim]]></translation>
+      </item>
+    </MediaGalleries>
+    <MediaLibrary>
+      <item type="label" name="AddMediaFolder">
+        <translation language="tr"><![CDATA[Klasör Ekle]]></translation>
+      </item>
+      <item type="label" name="AddMediaItems">
+        <translation language="tr"><![CDATA[Medya Ekle]]></translation>
+      </item>
+      <item type="label" name="Folders">
+        <translation language="tr"><![CDATA[Klasörler]]></translation>
+      </item>
+    </MediaLibrary>
+    <Pages>
+      <item type="label" name="Add">
+        <translation language="tr"><![CDATA[Ekle ]]></translation>
+      </item>
+      <item type="label" name="AddPage">
+        <translation language="tr"><![CDATA[Sayfa Ekle]]></translation>
+      </item>
+      <item type="label" name="AddSubPage">
+        <translation language="tr"><![CDATA[Alt Sayfa Ekle]]></translation>
+      </item>
+      <item type="label" name="AfterPage">
+        <translation language="tr"><![CDATA[referans sayfasından sonra ekle]]></translation>
+      </item>
+      <item type="label" name="AppendToTree">
+        <translation language="tr"><![CDATA[gezinti menüsüne ekle]]></translation>
+      </item>
+      <item type="label" name="BeforePage">
+        <translation language="tr"><![CDATA[referans sayfasından önce ekle]]></translation>
+      </item>
+      <item type="label" name="ChangeTemplate">
+        <translation language="tr"><![CDATA[Şablonu Değiştir]]></translation>
+      </item>
+      <item type="label" name="CopyThisPage">
+        <translation language="tr"><![CDATA[Bu Sayfayı Kopyala]]></translation>
+      </item>
+      <item type="label" name="ExternalLink">
+        <translation language="tr"><![CDATA[Dış Bağlantı]]></translation>
+      </item>
+      <item type="label" name="ExtraTypeBlock">
+        <translation language="tr"><![CDATA[Modül]]></translation>
+      </item>
+      <item type="label" name="Footer">
+        <translation language="tr"><![CDATA[Footer Menü]]></translation>
+      </item>
+      <item type="label" name="InsidePage">
+        <translation language="tr"><![CDATA[referans sayfasının alt sayfası olarak ekle]]></translation>
+      </item>
+      <item type="label" name="InternalLink">
+        <translation language="tr"><![CDATA[Site içi bağlandı]]></translation>
+      </item>
+      <item type="label" name="MainNavigation">
+        <translation language="tr"><![CDATA[Menü]]></translation>
+      </item>
+      <item type="label" name="MovePageReferencePage">
+        <translation language="tr"><![CDATA[Referans Sayfası]]></translation>
+      </item>
+      <item type="label" name="MovePageTree">
+        <translation language="tr"><![CDATA[Gezinti menüsü]]></translation>
+      </item>
+      <item type="label" name="MovePageType">
+        <translation language="tr"><![CDATA[referans sayfasına ilişkin eylem]]></translation>
+      </item>
+      <item type="label" name="MoveThisPage">
+        <translation language="tr"><![CDATA[Bu Sayfayı Taşı]]></translation>
+      </item>
+      <item type="label" name="Redirect">
+        <translation language="tr"><![CDATA[Yönlendirme]]></translation>
+      </item>
+      <item type="label" name="Root">
+        <translation language="tr"><![CDATA[Sayfalar]]></translation>
+      </item>
+      <item type="label" name="UserTemplate">
+        <translation language="tr"><![CDATA[Kullanıcı Temaları]]></translation>
+      </item>
+      <item type="label" name="WhichTemplate">
+        <translation language="tr"><![CDATA[Şablon]]></translation>
+      </item>
+    </Pages>
+  </Backend>
+  <Frontend>
+    <Core>
+      <item type="label" name="AboutUs">
+        <translation language="tr"><![CDATA[hakkımızda]]></translation>
+      </item>
+      <item type="label" name="Advertisement">
+        <translation language="tr"><![CDATA[reklam]]></translation>
+      </item>
+      <item type="label" name="Archive">
+        <translation language="tr"><![CDATA[arşiv]]></translation>
+      </item>
+      <item type="label" name="Archives">
+        <translation language="tr"><![CDATA[arşivler]]></translation>
+      </item>
+      <item type="label" name="ArticlesInCategory">
+        <translation language="tr"><![CDATA[kategorilerdeki yazılar]]></translation>
+      </item>
+      <item type="label" name="Avatar">
+        <translation language="tr"><![CDATA[Avatar]]></translation>
+      </item>
+      <item type="label" name="BirthDate">
+        <translation language="tr"><![CDATA[doğum tarihi]]></translation>
+      </item>
+      <item type="label" name="Blog">
+        <translation language="tr"><![CDATA[blog]]></translation>
+      </item>
+      <item type="label" name="BlogArchive">
+        <translation language="tr"><![CDATA[blog arşivi]]></translation>
+      </item>
+      <item type="label" name="Breadcrumb">
+        <translation language="tr"><![CDATA[breadcrumb]]></translation>
+      </item>
+      <item type="label" name="By">
+        <translation language="tr"><![CDATA[tarafından]]></translation>
+      </item>
+      <item type="label" name="Categories">
+        <translation language="tr"><![CDATA[kategoriler]]></translation>
+      </item>
+      <item type="label" name="Category">
+        <translation language="tr"><![CDATA[kategori]]></translation>
+      </item>
+      <item type="label" name="City">
+        <translation language="tr"><![CDATA[şehir]]></translation>
+      </item>
+      <item type="label" name="Close">
+        <translation language="tr"><![CDATA[kapat]]></translation>
+      </item>
+      <item type="label" name="Comment">
+        <translation language="tr"><![CDATA[yorum]]></translation>
+      </item>
+      <item type="label" name="CommentedOn">
+        <translation language="tr"><![CDATA[yorumladı]]></translation>
+      </item>
+      <item type="label" name="Comments">
+        <translation language="tr"><![CDATA[yorumlar]]></translation>
+      </item>
+      <item type="label" name="Contact">
+        <translation language="tr"><![CDATA[iletişim]]></translation>
+      </item>
+      <item type="label" name="Content">
+        <translation language="tr"><![CDATA[içerik]]></translation>
+      </item>
+      <item type="label" name="Country">
+        <translation language="tr"><![CDATA[ülke]]></translation>
+      </item>
+      <item type="label" name="Date">
+        <translation language="tr"><![CDATA[tarih]]></translation>
+      </item>
+      <item type="label" name="DE">
+        <translation language="tr"><![CDATA[Almanca]]></translation>
+      </item>
+      <item type="label" name="Disclaimer">
+        <translation language="tr"><![CDATA[feragatname]]></translation>
+      </item>
+      <item type="label" name="DisplayName">
+        <translation language="tr"><![CDATA[Görüntü ismi]]></translation>
+      </item>
+      <item type="label" name="Email">
+        <translation language="tr"><![CDATA[e-posta]]></translation>
+      </item>
+      <item type="label" name="EN">
+        <translation language="tr"><![CDATA[İngilizce]]></translation>
+      </item>
+      <item type="label" name="EnableJavascript">
+        <translation language="tr"><![CDATA[Javascripti etkinleştiriniz]]></translation>
+      </item>
+      <item type="label" name="ES">
+        <translation language="tr"><![CDATA[İspanyolca]]></translation>
+      </item>
+      <item type="label" name="Faq">
+        <translation language="tr"><![CDATA[SSS]]></translation>
+      </item>
+      <item type="label" name="Feedback">
+        <translation language="tr"><![CDATA[Geri bildirim]]></translation>
+      </item>
+      <item type="label" name="Female">
+        <translation language="tr"><![CDATA[bayan]]></translation>
+      </item>
+      <item type="label" name="FirstName">
+        <translation language="tr"><![CDATA[İsim]]></translation>
+      </item>
+      <item type="label" name="FR">
+        <translation language="tr"><![CDATA[Fransızca]]></translation>
+      </item>
+      <item type="label" name="Gender">
+        <translation language="tr"><![CDATA[cinsiyet]]></translation>
+      </item>
+      <item type="label" name="GoTo">
+        <translation language="tr"><![CDATA[git]]></translation>
+      </item>
+      <item type="label" name="GoToPage">
+        <translation language="tr"><![CDATA[sayfaya git]]></translation>
+      </item>
+      <item type="label" name="History">
+        <translation language="tr"><![CDATA[geçmiş]]></translation>
+      </item>
+      <item type="label" name="HU">
+        <translation language="tr"><![CDATA[Macar]]></translation>
+      </item>
+      <item type="label" name="IT">
+        <translation language="tr"><![CDATA[İtalyanca]]></translation>
+      </item>
+      <item type="label" name="ItemsWithTag">
+        <translation language="tr"><![CDATA["%1$s" ile etiketlenmiş öğeler]]></translation>
+      </item>
+      <item type="label" name="Language">
+        <translation language="tr"><![CDATA[dil]]></translation>
+      </item>
+      <item type="label" name="LastName">
+        <translation language="tr"><![CDATA[soyad]]></translation>
+      </item>
+      <item type="label" name="Location">
+        <translation language="tr"><![CDATA[konum]]></translation>
+      </item>
+      <item type="label" name="Login">
+        <translation language="tr"><![CDATA[Giriş]]></translation>
+      </item>
+      <item type="label" name="Logout">
+        <translation language="tr"><![CDATA[Çıkış]]></translation>
+      </item>
+      <item type="label" name="MainNavigation">
+        <translation language="tr"><![CDATA[ana menü]]></translation>
+      </item>
+      <item type="label" name="Male">
+        <translation language="tr"><![CDATA[erkek]]></translation>
+      </item>
+      <item type="label" name="Message">
+        <translation language="tr"><![CDATA[mesaj]]></translation>
+      </item>
+      <item type="label" name="More">
+        <translation language="tr"><![CDATA[daha fazla]]></translation>
+      </item>
+      <item type="label" name="MostReadQuestions">
+        <translation language="tr"><![CDATA[En çok okunan sorular]]></translation>
+      </item>
+      <item type="label" name="Name">
+        <translation language="tr"><![CDATA[isim]]></translation>
+      </item>
+      <item type="label" name="NewPassword">
+        <translation language="tr"><![CDATA[yeni şifre]]></translation>
+      </item>
+      <item type="label" name="Next">
+        <translation language="tr"><![CDATA[sonraki]]></translation>
+      </item>
+      <item type="label" name="NextArticle">
+        <translation language="tr"><![CDATA[Sonraki makalede]]></translation>
+      </item>
+      <item type="label" name="NextPage">
+        <translation language="tr"><![CDATA[Sonraki sayfa]]></translation>
+      </item>
+      <item type="label" name="NL">
+        <translation language="tr"><![CDATA[Flemenkçe]]></translation>
+      </item>
+      <item type="label" name="On">
+        <translation language="tr"><![CDATA[()]]></translation>
+      </item>
+      <item type="label" name="Or">
+        <translation language="tr"><![CDATA[veya]]></translation>
+      </item>
+      <item type="label" name="Pages">
+        <translation language="tr"><![CDATA[sayfalar]]></translation>
+      </item>
+      <item type="label" name="Password">
+        <translation language="tr"><![CDATA[şifre]]></translation>
+      </item>
+      <item type="label" name="Previous">
+        <translation language="tr"><![CDATA[önceki]]></translation>
+      </item>
+      <item type="label" name="ProfileSettings">
+        <translation language="tr"><![CDATA[Profil ayarları]]></translation>
+      </item>
+      <item type="label" name="RecentArticles">
+        <translation language="tr"><![CDATA[güncel yazılar]]></translation>
+      </item>
+      <item type="label" name="RecentComments">
+        <translation language="tr"><![CDATA[güncel yorumlar]]></translation>
+      </item>
+      <item type="label" name="Related">
+        <translation language="tr"><![CDATA[ile ilgili]]></translation>
+      </item>
+      <item type="label" name="RememberMe">
+        <translation language="tr"><![CDATA[Beni hatırla]]></translation>
+      </item>
+      <item type="label" name="RequiredField">
+        <translation language="tr"><![CDATA[Doldurulması zorunlu alan]]></translation>
+      </item>
+      <item type="label" name="RU">
+        <translation language="tr"><![CDATA[Rusca]]></translation>
+      </item>
+      <item type="label" name="Save">
+        <translation language="tr"><![CDATA[Kaydet]]></translation>
+      </item>
+      <item type="label" name="Search">
+        <translation language="tr"><![CDATA[Ara]]></translation>
+      </item>
+      <item type="label" name="SearchAgain">
+        <translation language="tr"><![CDATA[Tekrar ara]]></translation>
+      </item>
+      <item type="label" name="SearchTerm">
+        <translation language="tr"><![CDATA[arama terimi]]></translation>
+      </item>
+      <item type="label" name="Send">
+        <translation language="tr"><![CDATA[gönder]]></translation>
+      </item>
+      <item type="label" name="SenderInformation">
+        <translation language="tr"><![CDATA[gönderenin bilgi]]></translation>
+      </item>
+      <item type="label" name="Sent">
+        <translation language="tr"><![CDATA[gönderildi]]></translation>
+      </item>
+      <item type="label" name="SentOn">
+        <translation language="tr"><![CDATA['de gönderildi]]></translation>
+      </item>
+      <item type="label" name="ShowPassword">
+        <translation language="tr"><![CDATA[şifre görüntüle]]></translation>
+      </item>
+      <item type="label" name="Sitemap">
+        <translation language="tr"><![CDATA[sitemap]]></translation>
+      </item>
+      <item type="label" name="SkipToContent">
+        <translation language="tr"><![CDATA[içeriğe geçin]]></translation>
+      </item>
+      <item type="label" name="Subscribe">
+        <translation language="tr"><![CDATA[abone ol]]></translation>
+      </item>
+      <item type="label" name="Tags">
+        <translation language="tr"><![CDATA[etiketler]]></translation>
+      </item>
+      <item type="label" name="Title">
+        <translation language="tr"><![CDATA[Başlık]]></translation>
+      </item>
+      <item type="label" name="Unsubscribe">
+        <translation language="tr"><![CDATA[aboneliğinizi iptal edin]]></translation>
+      </item>
+      <item type="label" name="Website">
+        <translation language="tr"><![CDATA[website]]></translation>
+      </item>
+      <item type="label" name="With">
+        <translation language="tr"><![CDATA[ile]]></translation>
+      </item>
+      <item type="label" name="Yes">
+        <translation language="tr"><![CDATA[Evet]]></translation>
+      </item>
+      <item type="label" name="YouAreHere">
+        <translation language="tr"><![CDATA[buradasınız]]></translation>
+      </item>
+      <item type="label" name="YourData">
+        <translation language="tr"><![CDATA[sizin bilgileriniz]]></translation>
+      </item>
+      <item type="label" name="YourLocationData">
+        <translation language="tr"><![CDATA[konumunuz]]></translation>
+      </item>
+      <item type="label" name="ZH">
+        <translation language="tr"><![CDATA[Çince]]></translation>
+      </item>
+    </Core>
+  </Frontend>
+</locale>
