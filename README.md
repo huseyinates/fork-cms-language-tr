@@ -4,7 +4,7 @@
 - [Download Fork LANG TR.*](https://github.com/huseyinates/fork-cms-language-tr/archive/master.zip)
 
 ## Installation:
-- Download the module
+- Download the language
 - Upload the language to Fork CMS
 
 
